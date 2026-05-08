@@ -1,409 +1,182 @@
 # Banshee
 
-> *"Her cry is for those who are about to die."*
+> A female supernatural figure of Irish folklore — the bean sí, 'woman of the fairy mound' — whose mourning cry, the keen, foretells the death of a member of certain Irish families.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Category](https://img.shields.io/badge/category-spirit-purple)]()
-[![Status](https://img.shields.io/badge/status-living--folklore-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `banshee` |
 | **Category** | ENTITY_SPIRIT |
-| **Classification** | Death Omen / Family Guardian Spirit |
-| **Origin** | Ancient Irish folklore |
-| **Primary Region** | Ireland (with Celtic variants) |
-| **Status** | Living Folklore Tradition |
+| **Subcategory** | Death-omen / fairy-woman of Irish folklore |
+| **First recorded** | c. 1380 |
+| **Primary range** | Native to Ireland |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The **banshee** (Irish: *bean sí*, meaning "woman of the fairy mound") is one of the most famous figures in Irish folklore. She is a female spirit whose appearance or wailing cry announces that a member of a certain family is about to die.
-
-The banshee is traditionally attached to **specific Irish families**, particularly those with surnames beginning with 'O' or 'Mac' (ancient Gaelic nobility). She appears in various forms:
-- As a keening old woman in tattered clothes
-- As a beautiful young woman with flowing hair
-- As a washerwoman at a river ford cleaning bloody clothes
-
-Her most distinctive feature is her **wail**—a supernatural cry of mourning called *keening* that strikes terror and sorrow in those who hear it. The banshee is **not malevolent**; rather, she serves as a family guardian whose role is to mourn the passing of family members.
-
-The banshee tradition remains part of **living Irish folk culture**, with modern claimed experiences continuing to be reported.
+The banshee (Irish: bean sí, from Old Irish ben síde — 'woman of the fairy mound') is one of the most widely-known figures of Irish folklore. She is a female spirit, traditionally attached to specific Gaelic Irish families (especially those whose surnames begin with Ó or Mac, indicating ancient Milesian descent), whose appearance or wailing cry — the caoineadh, or 'keen' — foretells the death of a family member. Descriptions vary considerably across the corpus: some accounts describe her as a beautiful young woman with long streaming red or fair hair, in a green dress beneath a grey cloak, with eyes red from weeping; others describe her as an old hag or a small shrouded figure beneath the trees; her height ranges from one to four feet. She often appears combing her hair, and a folk taboo forbids picking up a discarded comb in case it is hers. She is not malevolent: her role is to mourn, not to cause death. The figure is documented as far back as the 14th-century Irish chronicle Caithréim Thoirdhealbhaigh ('The Triumphs of Turlough', c. 1380), and is collected extensively in Lady Wilde's Ancient Legends, Mystic Charms, and Superstitions of Ireland (1887), W. B. Yeats's Fairy and Folk Tales of the Irish Peasantry (1888), and the standard modern scholarly study, Patricia Lysaght's The Banshee: The Irish Supernatural Death-Messenger (Glendale Press, 1986). Closely related figures appear in other Celtic traditions: the Scottish bean nighe (washerwoman at the ford) and caoineag, and the Welsh cyhyraeth. The banshee remains a living element of Irish folk culture, with claimed encounters periodically reported into the 21st century.
 
 ---
+## Names & Aliases
 
-## ⚠️ Cultural Sensitivity Note
-
-The banshee is part of **living Irish folk tradition** and cultural heritage. This is:
-- A respected element of Irish cultural identity
-- Connected to traditional Irish funeral customs (keening)
-- **Not a horror movie monster** but a serious folk tradition
-- Treated with respect in Irish culture
-
-Please approach banshee lore with cultural sensitivity and awareness of its ongoing significance.
-
----
+| Name | Origin | Meaning |
+|---|---|---|
+| Bean sí / Bean sídhe | Modern Irish / Old Irish | 'Woman of the fairy mound' (síd / síde) |
+| Bean nighe | Scottish Gaelic / Scottish Highlands | 'Washerwoman' — Scottish counterpart, a death-omen washing grave-clothes at a ford |
+| Caoineag | Scottish Gaelic / Scottish Highlands | 'Weeper' — Scottish lamenting fairy |
+| Cyhyraeth | Welsh / Wales | Welsh death-wailing spirit |
+| Badhbh chaointe | Irish | 'Keening crow / hag' — variant or related figure |
 
 ## Etymology
 
-| Aspect | Detail |
-|--------|--------|
-| **Irish Gaelic** | *Bean sí* or *bean sídhe* |
-| **Meaning** | "Woman of the fairy mound" / "Woman of the síd" |
-| **Alternative** | *Bean chaointe* ("keening woman") |
-| **Pronunciation** | "ban-shee" (Anglicized) |
-| **Origin** | Ancient Irish oral tradition |
-
-**Note**: The *síd* or *síthe* are the fairy mounds or hills where the *Aos Sí* (fairy folk) dwell in Irish mythology.
+- **Origin**: Modern Irish bean sí (older bean sídhe), from Old Irish ben síde — 'woman of the síd', the fairy mound; síd / síde is the Old Irish word for the prehistoric burial mounds inhabited by the Aos Sí (people of the mounds).
+- **Meaning**: 'Woman of the fairy mound'; by extension, a female supernatural mourner.
+- **First use**: Old and Middle Irish prose; the 14th-century chronicle Caithréim Thoirdhealbhaigh (c. 1380) is among the early prose attestations of a banshee-like figure prophesying death.
 
 ---
+## Related Phenomena
 
-## Appearance & Forms
-
-### Primary Forms
-
-| Form | Description | Frequency |
-|------|-------------|-----------|
-| **Old Hag** | Elderly woman with long, unkempt white/gray hair, tattered clothes | Common |
-| **Beautiful Woman** | Young, ethereally beautiful with flowing hair, white/gray garments | Common |
-| **Washerwoman** | Woman at river ford washing bloody clothes or burial shrouds | Occasional |
-
-### Physical Features
-
-| Feature | Description |
-|---------|-------------|
-| **Hair** | Long, flowing; white, gray, or red; often seen combing with silver comb |
-| **Eyes** | Red from constant weeping |
-| **Clothing** | White, gray, green, or red garments; may be tattered |
-| **Appearance** | May be translucent, ghostly, semi-transparent |
-| **Demeanor** | Sorrowful, mourning, sometimes terrifying |
+- [Bean nighe](../bean-nighe/) — _regional_variant_: Scottish Highland washerwoman at the ford — washes the grave-clothes of those about to die.
+- [Caoineag](../caoineag/) — _regional_variant_: Scottish lamenting fairy — 'the weeper'.
+- [Cyhyraeth](../cyhyraeth/) — _similar_: Welsh death-wailing spirit.
+- [The Morrígan](../morrigan/) — _related_: Old Irish goddess of war and fate; sometimes appears as a death-foretelling washerwoman at the ford in early Irish saga.
+- [Lhiannan-shee](../lhiannan-shee/) — _related_: Manx fairy-lover; another Aos Sí figure.
 
 ---
+## Physical Description
 
-## The Wail (Keening)
+- **Morphology**: An anthropomorphic female figure, varying widely from beautiful young woman to ancient hag; sometimes a tall stately apparition, sometimes a small shrouded figure beneath the trees.
 
-The banshee's **cry** is her most distinctive and feared feature.
+### Features
 
-### Characteristics of the Wail
+| Feature | Description | Frequency |
+|---|---|---|
+| Long streaming hair | Most depictions emphasise long red, fair, or silver hair, often unbound and floating. | common |
+| Red-rimmed weeping eyes | Eyes red from continuous weeping are a recurring detail. | common |
+| Green dress under grey cloak | A common Irish costume: green gown beneath a grey or ash-coloured cloak. | common |
+| Comb in hand | Frequently described combing her hair; folk taboo against picking up roadside combs. | common |
+| Variable size | Reports range from a tall stately woman to a small (1-4 ft) shrouded figure. | occasional |
+| Hag form | May appear as an old crone (a 'hag of the air') in some accounts. | occasional |
 
-- **Supernatural quality**: Unlike any human sound
-- **Mournful and terrifying**: Strikes terror and deep sadness
-- **Carries far**: Can be heard from great distances
-- **Nocturnal**: Typically heard at night
-- **Unearthly**: Described as coming from another world
+## Reported Abilities
 
-### Types of Sounds
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Keening / death wail | Produces the caoineadh — a high, mournful supernatural cry — that foretells a family member's imminent death. | always | folklore |
+| Family attachment | Bound to specific Irish families (especially Ó and Mac surnames), following them across distance and emigration. | always | folklore |
+| Foreknowledge of death | Knows of an impending death sometimes before news of it has travelled to the family. | common | folklore |
+| Apparition | Can be seen as well as heard, often combing her hair near a stream or on a road. | common | folklore |
 
-| Sound | Description |
-|-------|-------------|
-| **Keening** | Traditional Irish mourning cry (*caoineadh*) |
-| **Wailing** | High-pitched, sustained cry |
-| **Screaming** | Sharp, piercing supernatural scream |
-| **Moaning** | Low, mournful sound |
-| **Singing** | Mournful lament or dirge |
+## Behavior
 
-### Multiple Banshees
-
-When a particularly important person is about to die, **multiple banshees** may gather and wail together, creating a chorus of mourning.
-
----
-
-## Behavior & Manifestations
-
-### How the Banshee Appears
-
-| Type | Description | Timing | Frequency |
-|------|-------------|--------|-----------|
-| **Auditory** | Wailing, keening, screaming | Night, before death | Most common |
-| **Visual** | Appears as woman in various forms | Night or dusk | Common |
-| **Activity** | Combing hair, washing clothes, banging walls | Various | Occasional |
-
-### Typical Behaviors
-
-- **Combing hair**: Often seen combing long hair with silver or golden comb
-- **Washing clothes**: Washing bloody garments or burial shrouds at river ford
-- **Keening**: Wailing mourning cry
-- **Wandering**: Near family home, at crossroads, at river fords
-- **Warning**: Appears before death occurs (omen, not cause)
-
-### Disposition
-
-**The banshee is NOT malevolent**:
-- She does not cause death
-- She announces and mourns death
-- Functions as family guardian
-- Shows honor and respect for the dying
-- Part of protective fairy folk
+- **Activity**: nocturnal
+- **Disposition**: passive
+- **Social structure**: solitary
+- **Habitat**: near rivers, streams, and fords, near family home of attached lineage, old hawthorn or rowan trees, fairy mounds (síd)
 
 ---
+## Distribution
 
-## Associated Families
+Native to Ireland; cognate figures across the Celtic-speaking world (Scotland, Wales, Isle of Man). With the Irish diaspora the banshee tradition has been carried to North America, Australia, and other Anglophone regions.
 
-Banshees are attached to **specific ancient Irish families**, particularly those of Gaelic nobility.
-
-### Notable Banshee Families
-
-| Family Name | Notes |
-|-------------|-------|
-| **O'Neill** | One of most documented; ancient Ulster kings |
-| **O'Brien** | Descendants of Brian Boru |
-| **O'Connor** | Ancient Connacht kings |
-| **O'Grady** | Clare family with strong traditions |
-| **Kavanagh** | Leinster nobility |
-| **McCarthy** | Munster family |
-| **O'Reilly** | Cavan family |
-
-### Naming Pattern
-
-- Traditionally families with **'O'** or **'Mac'** surnames
-- Ancient **Gaelic nobility** families
-- Banshee attachment passes through **family lines**
-- Not all Irish families have a banshee
-
-### Inheritance
-
-The banshee attachment:
-- Passes through **generations**
-- Follows family bloodline
-- May follow family members who emigrate
-- Mourns family deaths regardless of location
 
 ---
+## Historical Timeline
 
-## Cultural & Historical Context
+| Date | Event | Significance |
+|---|---|---|
+| c. 1380 | Caithréim Thoirdhealbhaigh — Irish chronicle of the wars of Turlough O'Brien — describes a supernatural female figure (Aoibheall) foretelling the death of a Dál gCais king. | Among the earliest documented prose accounts of a banshee-type figure. |
+| 1602 | The death of Edmund Mac Sweeney is preceded, according to family tradition, by the keening of a banshee — referenced in early modern Irish chronicles. | Early-modern family tradition attestation. |
+| 1887 | Lady Jane Wilde publishes Ancient Legends, Mystic Charms, and Superstitions of Ireland. | Major Victorian folkloric source. |
+| 1888 | W. B. Yeats publishes Fairy and Folk Tales of the Irish Peasantry, with banshee material. | Anchors banshee folklore in the literary revival. |
+| 1920 | Lady Gregory publishes Visions and Beliefs in the West of Ireland, with extensive collected banshee testimony. | Major collected oral testimony. |
+| 1986 | Patricia Lysaght publishes The Banshee: The Irish Supernatural Death-Messenger (Glendale Press, Dublin). | Standard modern scholarly study based on Irish Folklore Commission archive material. |
 
-### Origins
+## Evidence
 
-- **Pre-Christian**: Roots in ancient Irish mythology
-- **Fairy folk**: Part of *Aos Sí* (fairy people) tradition
-- **Medieval documentation**: Described in Irish manuscripts
-- **Nobility connection**: Associated with great Irish families
+### Documentary
 
-### Connection to Keening
-
-The banshee is closely tied to **Irish keening tradition**:
-
-| Aspect | Description |
-|--------|-------------|
-| **Keening** | Traditional Irish funeral practice (*caoineadh*) |
-| **Bean chaointe** | Professional female mourners at funerals |
-| **Vocal lament** | Improvised mourning cry over the dead |
-| **Banshee link** | Supernatural version of human keeners |
-
-The banshee may represent the **spirit embodiment** of the keening tradition.
-
-### Modern Tradition
-
-**Living Folklore**:
-- Irish families continue to report experiences
-- Stories passed down through generations
-- Treated with respect and seriousness
-- Part of Irish cultural identity
-- Subject of ongoing folklore collection
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Caithréim Thoirdhealbhaigh | c. 1380 | Irish chronicle of the wars of Turlough O'Brien describing Aoibheall foretelling the death of a Dál gCais king — among the earliest prose attestations of a banshee-type figure. | verified |
+| Lady Wilde — Ancient Legends, Mystic Charms, and Superstitions of Ireland | 1887 | Major Victorian compilation of Irish folkloric material with extensive banshee accounts. | verified |
+| Patricia Lysaght — The Banshee: The Irish Supernatural Death-Messenger | 1986 | Standard modern scholarly study, drawing on the Irish Folklore Commission archives. | verified |
 
 ---
+## Theories & Explanations
 
-## Regional Variations
+### Paranormal / Cryptozoological
 
-### 🇮🇪 Irish Banshee (*Bean Sí*)
+**Surviving Aos Sí ancestral / fate-spirit** _(Irish folk tradition, Patricia Lysaght (in scholarly framing))_
 
-**Primary characteristics**:
-- Keening woman announcing death
-- Attached to specific families
-- Various forms (hag, beauty, washerwoman)
-- Focus on wailing cry
+Within Irish tradition, the banshee is a real supernatural figure of the Otherworld — a daughter of the Aos Sí — attached to a specific family lineage and concerned with the fate of its members.
 
----
+### Scientific
 
-### 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Bean Nighe
+**Misidentified animal cries** _(Patrick Logan, The Old Gods (1981))_
 
-**Characteristics**:
-- "Washing woman" at river fords
-- Washes burial shrouds of those about to die
-- If you approach correctly, may grant wishes
-- Similar death omen function
-- More focus on washing, less on wailing
+Many keening reports have been attributed to vixens, barn owls, foxes, and other nocturnal animals whose calls can sound human-like at distance.
 
----
+### Skeptical
 
-### 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh Cyhyraeth
+**Folkloric and literary construction** _(Patricia Lysaght (scholarly framing), Mainstream Celtic-studies folkloristics)_
 
-**Characteristics**:
-- Groaning spirit announcing death
-- Similar mourning function
-- Welsh variant of death omen tradition
+Modern folklorists treat the banshee as a culturally constructed figure rooted in pre-Christian fairy belief and the Irish keening tradition, with no claim to material existence.
 
----
-
-## Theories & Interpretations
-
-### Folklore Interpretation
-
-**Supernatural family guardian**:
-- Part of fairy folk (*Aos Sí*)
-- Bridge between mortal world and Otherworld
-- Ancestral spirit watching over family
-- Honors the dead, warns the living
-
-### Cultural Interpretation
-
-**Personification of keening tradition**:
-- Traditional professional mourners (bean chaointe)
-- Funeral customs transformed into supernatural figure
-- Maintains connection to ancestral practices
-- Cultural memory of pre-Christian death rituals
-
-### Psychological Interpretation
-
-**Grief-related phenomena**:
-- Auditory hallucinations during anticipatory grief
-- Stress and cultural expectation
-- Nocturnal anxiety during death vigils
-- Pattern recognition in ambiguous sounds
-
-### Naturalistic Explanations
-
-Possible natural sources of "banshee" experiences:
-
-| Source | Explanation |
-|--------|-------------|
-| **Screech owls** | High-pitched, eerie cries at night |
-| **Fox cries** | Vixens make unsettling screams |
-| **Wind** | Through buildings, trees, creating wailing sounds |
-| **Barn owls** | Shrieking calls |
-| **Psychological** | Auditory hallucinations during stress |
-
----
-
-## Famous Accounts
-
-### Historical Documentation
-
-- **O'Neill family**: Multiple documented accounts over centuries
-- **O'Brien family**: Traditional attachment to descendants of Brian Boru
-- **19th-century collections**: Numerous accounts from Irish families
-- **20th-century reports**: Continued claims through modern era
-
-### Modern Claims
-
-Irish families continue to report:
-- Hearing wailing before family deaths
-- Seeing mysterious women near homes
-- Unexplained sounds during death vigils
-- Family tradition stories
-
-**Status**: Part of ongoing oral tradition
-
----
 
 ## Popular Culture
 
-### Literature
+**Literature**: Lady Wilde, Ancient Legends, Mystic Charms, and Superstitions of Ireland (1887); W. B. Yeats, Fairy and Folk Tales of the Irish Peasantry (1888); Lady Gregory, Visions and Beliefs in the West of Ireland (1920); Patricia Lysaght, The Banshee (Glendale Press, 1986); Patrick Logan, The Old Gods: The Facts About Irish Fairies (Appletree Press, 1981)
 
-- **W.B. Yeats**: Poetry featuring banshees and Irish fairy lore
-- **Lady Gregory**: *Visions and Beliefs in the West of Ireland* (1920)
-- **Irish folklore collections**: Numerous 19th-20th century collections
-- **Modern Irish fiction**: Incorporating banshee traditions
+**Film / TV**: Darby O'Gill and the Little People (1959); The Banshees of Inisherin (Martin McDonagh, 2022); Banshee Chapter (2013)
 
-### Film & Television
+**Games**: Recurring monster type in Dungeons & Dragons (since 1977); World of Warcraft — banshee enemy and lore figures; The Witcher series — Beann'shie / banshee creature
 
-| Title | Year | Type | Notes |
-|-------|------|------|-------|
-| *Darby O'Gill and the Little People* | 1959 | Film | Disney film featuring banshee |
-| Various horror films | Multiple | Film | Often misrepresented as monster |
-| Supernatural TV series | Various | TV | Appearances in folklore-based shows |
+**Music**: Siouxsie and the Banshees (post-punk band, 1976-1996); The Cranberries — 'I Just Shot John Lennon' and other Irish-themed material
 
-### Music
-
-- Traditional Irish songs about banshees
-- Modern Celtic music references
-- Folk ballads
-
-### Games
-
-- Fantasy RPGs (often as undead/monster, diverging from tradition)
-- Celtic mythology-based games
+**Other**: Recurrent figure in Irish-themed merchandise, costume, and tourism; Living oral tradition in Irish-descended communities
 
 ---
+## Research
 
-## Comparison to Related Spirits
+### Researchers
 
-| Spirit | Culture | Similarity | Difference |
-|--------|---------|------------|------------|
-| **Bean Nighe** | Scottish | Death omen, washing | More washing focus |
-| **Valkyrie** | Norse | Death-associated female | Choose who dies (warrior spirits) |
-| **Cyhyraeth** | Welsh | Death omen, groaning | Different manifestation |
-| **La Llorona** | Mexican | Wailing woman | Different origin, intent |
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Patricia Lysaght | University College Dublin (Irish folklore) | The Banshee: The Irish Supernatural Death-Messenger (1986) — standard scholarly study. | 1980s-present |
+| Lady Jane Wilde | Folklorist; mother of Oscar Wilde | Ancient Legends, Mystic Charms, and Superstitions of Ireland (1887). | 1870s-1890s |
+| W. B. Yeats | Poet and folklorist | Fairy and Folk Tales of the Irish Peasantry (1888). | 1880s-1900s |
+| Lady Augusta Gregory | Folklorist and playwright | Visions and Beliefs in the West of Ireland (1920). | 1900s-1920s |
+| Patrick Logan | Irish physician and folklorist | The Old Gods: The Facts About Irish Fairies (1981). | 1970s-1980s |
 
----
+### Organizations
 
-## Evidence & Status
+- [National Folklore Collection (UCD)](https://www.ucd.ie/folklore/en/) — Irish folklore archive housing extensive banshee testimony, including the Schools' Collection (1937-39).
+- [Dúchas — National Folklore Collection digital archive](https://www.duchas.ie) — Online access to the Schools' Collection of Irish folklore.
 
-| Aspect | Status |
-|--------|--------|
-| **Type** | Folklore and cultural tradition |
-| **Modern Reports** | Ongoing claims from Irish families |
-| **Physical Evidence** | None (auditory/visual phenomena) |
-| **Cultural Evidence** | Extensive oral tradition, documented accounts |
-| **Scientific Status** | Not verified; cultural tradition |
-| **Cultural Status** | Living Irish folk tradition |
+Continued ethnographic and literary study within Irish folklore studies, especially around the keening tradition, female lament, and the Irish diaspora's transmission of banshee belief.
 
 ---
+## Sources
 
-## Practical Aspects
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### What to Do If You Hear the Banshee
 
-**Traditional beliefs**:
-1. **Do not look for her**: Respect her presence
-2. **Prepare for death**: Someone in family will die soon
-3. **Pray**: Offer prayers for the dying
-4. **Alert family**: Warn family members
-5. **Show respect**: Do not mock or disrespect
+## How to Report a Sighting
 
-**Modern context**: Whether believed literally or as cultural tradition, the banshee is treated with respect in Irish culture.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const banshee = await wyrd.getPhenomenon('banshee');
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Key Sources
-- Lysaght, P. (1986). *The Banshee: The Irish Death Messenger*
-- Yeats, W.B. (1888). *Fairy and Folk Tales of the Irish Peasantry*
-- Gregory, Lady A. (1920). *Visions and Beliefs in the West of Ireland*
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
